@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Wildan Habibi
 
-### 🎓 D4 Information Management Student | 💻 Aspiring Web Developer
+### 🎓 D4 Informatics Management Student | 💻 Aspiring Web Developer
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a third-year student pursuing a **Bachelor of Applied Science (D4) in Information Management**, actively seeking internship opportunities as a **Web Developer**. I have practical experience building web applications through **multiple freelance projects**, ranging from management systems to company websites.
+I'm a third-year student pursuing a **Bachelor of Applied Science (D4) in Informatics Management**, actively seeking internship opportunities as a **Web Developer**. I have practical experience building web applications through **multiple freelance projects**, ranging from management systems to company websites.
 
 - 🌱 Currently enhancing my skills in full-stack development
 - 💼 Open for web developer internship opportunities
