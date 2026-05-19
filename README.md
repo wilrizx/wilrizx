@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Wildan Habibi
 
-### 🎓 D4 Informatics Management Student | 💻 Aspiring Web Developer
+### 🎓 D4 Informatics Management Student | 💻 Fullstack Web Developer
 
 </div>
 
@@ -13,10 +13,8 @@
 I'm a third-year student pursuing a **Bachelor of Applied Science (D4) in Informatics Management**, actively seeking internship opportunities as a **Web Developer**. I have practical experience building web applications through **multiple freelance projects**, ranging from management systems to company websites.
 
 - 🌱 Currently enhancing my skills in full-stack development
-- 💼 Open for web developer internship opportunities
 - 💻 Proven track record in freelance web development
 - 🎯 Goal: Contributing to impactful projects while learning from experienced developers
-- 📚 Active bootcamp participant at Celerates (Studi Independen program)
 
 ---
 
@@ -46,18 +44,6 @@ I'm a third-year student pursuing a **Bachelor of Applied Science (D4) in Inform
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wildanhbbrizq/)
@@ -67,6 +53,6 @@ I'm a third-year student pursuing a **Bachelor of Applied Science (D4) in Inform
 
 <div align="center">
   
-### ⭐ Open for collaboration and internship opportunities!
+### ⭐ Open for collaboration and feel free send message to my email!
 
 </div>
